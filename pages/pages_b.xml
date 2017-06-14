@@ -1,0 +1,32 @@
+<root>
+<pages>
+<page  fronti='pages/cover_a.jpg'  
+backi='pages/page_013.jpg'/><page fronti='pages/page_013.jpg'  
+backi='pages/page_015.jpg'/><page fronti='pages/page_015_b.jpg' 
+backi='pages/page_014_a.jpg'/><page fronti='pages/page_014_b.jpg' 
+backi='pages/page_001_a.jpg'/><page fronti='pages/page_001_b.jpg' 
+backi='pages/page_002_b.jpg'/><page fronti='pages/page_002_a.jpg' 
+backi='pages/page_003_d.jpg'/><page fronti='pages/page_003_c.jpg' 
+backi='pages/page_006_a.jpg'/><page fronti='pages/page_006_b.jpg' 
+backi='pages/page_008_a.jpg'/><page fronti='pages/page_008_b.jpg' 
+backi='pages/page_004_a.jpg'/><page fronti='pages/page_004_b.jpg' 
+backi='pages/page_005_a.jpg'/><page fronti='pages/page_005_b.jpg' 
+backi='pages/page_009_a.jpg'/><page fronti='pages/page_009_b.jpg' 
+backi='pages/page_011_a.jpg'/><page fronti='pages/page_011_b.jpg' 
+backi='pages/page_007_a.jpg'/><page fronti='pages/page_007_b.jpg' 
+backi='pages/page_012_a.jpg'/><page fronti='pages/page_012_b.jpg' 
+backi='pages/page_013.jpg'/><page fronti='pages/page_013.jpg' 
+backi='pages/cover_z.jpg'/>
+  </pages>
+  <control></control>
+  <other>
+  	<unusedpages note='for utility'>
+backi='pages/page_010_a.jpg'/><page fronti='pages/page_010_b.jpg' 
+backi='pages/page_003_a.jpg'/><page fronti='pages/page_003_b.jpg' 
+backi='pages/page_002_a.jpg'/><page fronti='pages/page_002_b.jpg'
+backi='pages/page_003_c.jpg'/><page fronti='pages/page_003_d.jpg' 
+backi='pages/page_003_b.jpg'/><page fronti='pages/page_003_a.jpg' 
+	
+  	</unusedpages>
+  </other>
+</root>
